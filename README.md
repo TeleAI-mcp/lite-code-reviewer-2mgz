@@ -1,2 +1,3 @@
-# lite-code-reviewer-2mgz
+# Lite Code Reviewer 2Mgz
+
 A repository to test GitHub automation for issue management.
